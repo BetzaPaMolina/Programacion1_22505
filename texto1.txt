@@ -1,3 +1,4 @@
 Hola, estoy empezando a utilizar GIT.
 esta es una segunda linea
 esta es la tercera línea MODIFICADA
+probando los emojis
